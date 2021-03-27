@@ -1,6 +1,6 @@
 # 2021 소프트웨어공학 3분반
 
-<Name>  <Github ID>
+#Name   #Github ID
 강용현   kyh1116
 김예슬   kys97
 김인서
