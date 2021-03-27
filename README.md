@@ -13,9 +13,7 @@
 
 > Method
 
-> Sub-groups
-
-> Mini-projects
+> Sub-groups & Mini-projects
 
 ### 2. Problem Statement
 > The Problem
