@@ -1,15 +1,14 @@
 # 2021 소프트웨어공학 3분반
 
-### 1. Name / Student Number / Github ID
-
+### 1. Outline
+> Name / Student Number / Github ID
 - 강용현 /  / kyh1116
 - 김예슬 /  / kys97
-- 김인서
+- 김인서 /  / 
 - 박민호 /  / pmhlj73
 - 박상우 /  / psangwoo
-- 정가원 / 20184601 / edaisy8864
+- 정가원  /  20184601  /  edaisy8864
 
-### 2. Outline
 > Project
 
 > Method
@@ -18,12 +17,12 @@
 
 > Mini-projects
 
-### 3. Problem Statement
+### 2. Problem Statement
 > The Problem
   
 > Scenarios
 
 
-### 4. Gathered Requirements
+### 3. Gathered Requirements
 
-### 5. System Model
+### 4. System Model
