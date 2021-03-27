@@ -9,6 +9,8 @@
 - 박상우 /  / psangwoo
 - 정가원 / 20184601 / edaisy8864
 
+> Subgroups & Mini-projects
+
 > Problem Statement
 #### [The Problem]
   
