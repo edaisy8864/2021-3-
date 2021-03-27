@@ -2,11 +2,9 @@
 
 > Name  / Github ID
 
-강용현  /  kyh1116
-
-김예슬  /  kys97
-
-김인서
+- 강용현  /  kyh1116
+- 김예슬  /  kys97
+- 김인서
 
 박민호  /  pmhlj73
 
