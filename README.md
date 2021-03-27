@@ -1,6 +1,6 @@
 # 2021 소프트웨어공학 3분반
 
-### 1. Outline
+### 1. Teaming and Project selection
 > Name / Student Number / Github ID
 - 강용현 /  / kyh1116
 - 김예슬 /  / kys97
