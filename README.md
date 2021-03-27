@@ -7,7 +7,7 @@
 - 김인서 /  / 
 - 박민호 /  / pmhlj73
 - 박상우 /  / psangwoo
-- 정가원  /  20184601  /  edaisy8864
+- 정가원 / 20184601 / edaisy8864
 
 > Project
 
