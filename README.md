@@ -2,7 +2,7 @@
 
 ### 1. Teaming and Project selection
 > Name / Student Number / Github ID
-- 강용현 /  / kyh1116
+- 강용현 / 20176889 / kyh1116
 - 김예슬 /  / kys97
 - 김인서 /  / 
 - 박민호 /  / pmhlj73
