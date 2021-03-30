@@ -9,10 +9,12 @@
 - 박상우 / 20171670 / psangwoo
 - 정가원 / 20184601 / edaisy8864
 
+
 > Project
 
 비대면 주문 어플리케이션
- 
+
+
 > Method
 
 > Sub-groups & Mini-projects
