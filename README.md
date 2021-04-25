@@ -121,14 +121,18 @@
 |64|FR|4|시스템은 Admin이 "확인" 버튼을 선택했을 때 Admin이 "Table Number" 텍스트 상자에 입력한 텍스트가 숫자인지 확인해야 한다.|
 |65|FR|4|시스템은 입력된 Table Number가 숫자임을 확인했을 때 데이터베이스에 중복되는 Table Number가 있는지 확인해야한다.|
 |66|FR|4|시스템은 입력된 Table Number가 데이터베이스에서 중복되지 않음을 확인했을 때 해당 접속 기기의 Mac 주소를 Table Number와 함께 데이터베이스에 등록한 후 <Customer 모드> 화면으로 이동해야 한다.|
-|67|NFR|5|시스템은 <Table Number 입력> 화면으로 이동했을 때 "Table Number" 텍스트 상자와 "확인" 버튼을 화면에 보여주어야 한다.|
-|68|NFR|1|시스템은 입력된 Table Number가 숫자가 아닌 경우 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
-|69|NFR|1|시스템은 입력된 Table Number가 이미 등록된 번호일 경우 해당 내용을 알리는 메시지 창을 띄워야 한다.|
+|67|FR|5|시스템은 <Customer 모드> 화면으로 진입 시 애플리케이션이 종료되더라도 Admin 계정 로그인 상태가 유지되어야 하며, 애플리케이션의 초기 화면은 <Customer 모드>로 유지되어야 한다.|
+|68|NFR|5|시스템은 <Table Number 입력> 화면으로 이동했을 때 "Table Number" 텍스트 상자와 "확인" 버튼을 화면에 보여주어야 한다.|
+|69|NFR|1|시스템은 입력된 Table Number가 숫자가 아닌 경우 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
+|70|NFR|1|시스템은 입력된 Table Number가 이미 등록된 번호일 경우 해당 내용을 알리는 메시지 창을 띄워야 한다.|
 
 ##### <Customer 모드>
-
+|REQ|Type|Priority|Content|
+|:---:|:---:|:---:|:---|
+|71|FR|4||
 
 ##### <Admin 모드>
-
+|REQ|Type|Priority|Content|
+|:---:|:---:|:---:|:---|
 
 ### 4. System Model
