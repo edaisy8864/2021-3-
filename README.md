@@ -2,7 +2,7 @@
 
 ### 1. Teaming and Project selection
 
-> Name / Student Number / Github ID
+#### 1.1 Name / Student Number / Github ID
 ```
 - 강용현 / 20176889 / kyh1116
 - 김예슬 / 20185971 / kys97
@@ -12,14 +12,10 @@
 - 정가원 / 20184601 / edaisy8864
 ```
 
-> Project
+#### 1.2 Project
 ```
 비대면 주문 어플리케이션
 ```
-
-> Method
-
-> Sub-groups & Mini-projects
 
 ### 2. Problem Statement
 #### 2.1 The Problem
