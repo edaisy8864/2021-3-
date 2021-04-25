@@ -106,19 +106,29 @@
 |57|NFR|1|시스템은 Admin이 "취소" 버튼을 선택했을 때, 보안을 위해 로그아웃 되었음을 알리는 메시지 창을 띄워야한다.|
 
 ##### <사용자 모드 선택>
+|REQ|Type|Priority|Content|
+|:---:|:---:|:---:|:---|
 |58|FR|4|시스템은 <사용자 모드 선택> 화면에서 Admin이 마우스의 클릭을 사용하여 “Customer” 버튼과 “Admin” 버튼을 선택할 수 있게 허용해야 한다.|
 |59|FR|3|시스템은 Admin이 “Customer” 버튼을 선택했을 때 <Table Number 입력> 화면으로 이동해야 한다.
 |60|FR|3|시스템은 Admin이 “Admin” 버튼을 선택했을 때 <Admin 모드> 화면으로 이동해야 한다.
 |61|NFR|5|시스템은 <사용자 모드 선택> 화면으로 이동했을 때 "Customer" 버튼과 "Admin" 버튼을 화면에 보여주어야 한다.
 
 ##### <Table Number 입력>
+|REQ|Type|Priority|Content|
+|:---:|:---:|:---:|:---|
 |62|FR|4|시스템은 Admin이 마우스의 클릭을 사용하여 “Table Number” 텍스트 상자를 선택한 후 키보드를 사용하여 Table Number를 입력할 수 있게 허용해야 한다.|
 |63|FR|4|시스템은 Admin이 마우스의 클릭이나 키보드의 enter키 입력을 사용하여 "확인" 버튼을 선택할 수 있게 허용해야 한다.|
 |64|FR|4|시스템은 Admin이 "확인" 버튼을 선택했을 때 Admin이 "Table Number" 텍스트 상자에 입력한 텍스트가 숫자인지 확인해야 한다.|
 |65|FR|4|시스템은 입력된 Table Number가 숫자임을 확인했을 때 데이터베이스에 중복되는 Table Number가 있는지 확인해야한다.|
 |66|FR|4|시스템은 입력된 Table Number가 데이터베이스에서 중복되지 않음을 확인했을 때 해당 접속 기기의 Mac 주소를 Table Number와 함께 데이터베이스에 등록한 후 <Customer 모드> 화면으로 이동해야 한다.|
-|68|NFR|5|시스템은 <Table Number 입력> 화면으로 이동했을 때 "Table Number" 텍스트 상자와 "확인" 버튼을 화면에 보여주어야 한다.|
+|67|NFR|5|시스템은 <Table Number 입력> 화면으로 이동했을 때 "Table Number" 텍스트 상자와 "확인" 버튼을 화면에 보여주어야 한다.|
+|68|NFR|1|시스템은 입력된 Table Number가 숫자가 아닌 경우 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
+|69|NFR|1|시스템은 입력된 Table Number가 이미 등록된 번호일 경우 해당 내용을 알리는 메시지 창을 띄워야 한다.|
 
+##### <Customer 모드>
+
+
+##### <Admin 모드>
 
 
 ### 4. System Model
