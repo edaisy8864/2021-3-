@@ -139,6 +139,8 @@
 |78|FR|4|시스템은 Customer가 "Logout" 버튼을 선택했을 때 Customer 계정이 로그아웃 되며 "Logout" 버튼을 "Login" 버튼으로 변환해야 한다.|
 |79|NFR|5|시스템은 <Customer 모드> 화면으로 이동했을 때 "Order" 버튼과 "Login"(혹은 "Logout". 둘 중 하나의 상태) 버튼, “애플리케이션 초기화” 버튼, "스탬프/포인트" 버튼을 화면에 보여주어야 한다.|
 
+![customer 모드](https://user-images.githubusercontent.com/55443383/116080024-84b9a000-a6d3-11eb-9598-ec694fcc5b1a.png)
+
 ##### <애플리케이션 초기화>
 |REQ|Type|Priority|Content|
 |:---:|:---:|:---:|:---|
@@ -149,6 +151,8 @@
 |84|NFR|1|시스템은 "비밀번호 확인" 텍스트 상자와 "확인" 버튼과 "돌아가기" 버튼을 보여주어야 한다.|
 |85|NFR|4|시스템은 Customer가 Admin 계정을 임의로 로그아웃 시키거나 Customer 모드 이외의 권한에 접근하지 못하도록 막아야 한다.|
 
+![애플리케이션 초기화](https://user-images.githubusercontent.com/55443383/116079941-6a7fc200-a6d3-11eb-9d59-cd2e535917c5.png)
+
 ##### <스탬프/포인트>
 |REQ|Type|Priority|Content|
 |:---:|:---:|:---:|:---|
@@ -158,6 +162,8 @@
 |89|FR|4|시스템은 Customer가 로그인 상태일 경우 해당 Customer 계정의 데이터베이스로부터 스탬프 수와 적립된 포인트에 관한 데이터를 화면에 표시 해야 한다.|
 |90|NFR|5|시스템은 <스탬프/포인트> 화면으로 이동했을 때 계정 "스탬프" 그래픽과 , “적립된 포인트" 그래픽, "뒤로가기" 버튼을 화면에 보여주어야 한다.|
 |91|NFR|5|시스템은 Customer가 비로그인 상태일 경우 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
+
+![스탬프포인트](https://user-images.githubusercontent.com/55443383/116079763-2bea0780-a6d3-11eb-99ab-cbc317f14c9b.png)
 
 ##### <Customer 로그인>
 |REQ|Type|Priority|Content|
