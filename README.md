@@ -261,7 +261,7 @@
 |171|NFR|4|시스템은 Customer가 "주문완료" 탭에서 각 항목의 "주문 취소하기" 버튼을 선택했을 때, 의사를 다시 확인하기 위해 확인/취소 메시지 창을 띄워야 한다.|
 |172|NFR|1|시스템은 UI 형태가 직관적이고 쉬워서 누구라도 사용할 수 있어야 한다.|
 
-
+![주문하기1](https://user-images.githubusercontent.com/55443383/116079458-c8f87080-a6d2-11eb-9cbb-226e7b12782e.png)
 
 ##### <Admin 모드>
 |REQ|Type|Priority|Content|
