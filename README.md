@@ -70,7 +70,7 @@
 |28|NFR|1|시스템은 Admin이 입력한 이메일이 이메일 형식과 불일치함을 확인하면 해당내용을 알리는 경고 메시지 창을 띄워야 한다.|
 |29|NFR|3|시스템은 Admin이 입력한 비밀번호가 비밀번호 재확인과 일치함을 확인하면 회원가입 완료 메시지 창을 띄워야 한다.|
 
-![Admin회원가입](https://user-images.githubusercontent.com/55443383/116081197-f0e8d380-a6d4-11eb-804d-373810c658c7.jpg)
+![Admin로그인](https://user-images.githubusercontent.com/55443383/116081627-740a2980-a6d5-11eb-9550-00bb49772473.jpg)
 
 ##### <Admin 아이디/비밀번호 찾기>
 |REQ|Type|Priority|Content|
@@ -92,7 +92,7 @@
 |44|NFR|1|시스템은 인증 메일을 전송한 후에 3분의 카운트 다운을 화면에 보여줘야 하며, 3분이 지나면 인증 유효시간이 만료했음을 알려주는 경고 메시지 창을 띄워야 한다.|
 |45|NFR|3|시스템은 인증번호의 일치를 확인했을 때 “등록된 아이디” 라디오 버튼과 “비밀번호 변경하기” 버튼을 활성화하여 화면에 보여주어야 한다.|
 
-![아이디비밀번호찾기](https://user-images.githubusercontent.com/55443383/116081068-c0089e80-a6d4-11eb-9d3a-b44e15736064.jpg)
+![Admin회원가입](https://user-images.githubusercontent.com/55443383/116081676-82f0dc00-a6d5-11eb-8fe1-6b38fd1b2a87.jpg)
 
 ##### <Admin 비밀번호 변경>
 |REQ|Type|Priority|Content|
@@ -110,7 +110,7 @@
 |56|NFR|1|시스템은 Admin이 입력한 새로운 비밀번호가 Admin이 입력한 비밀번호 재확인과 일치함을 확인했을 때, 비밀번호 변경의 성공과 다시 로그인해달라는 알림을 담은 메시지 창을 띄워야한다.|
 |57|NFR|1|시스템은 Admin이 "취소" 버튼을 선택했을 때, 보안을 위해 로그아웃 되었음을 알리는 메시지 창을 띄워야한다.|
 
-![비밀번호변경](https://user-images.githubusercontent.com/55443383/116080986-a8c9b100-a6d4-11eb-9ee0-1a672f69a1c3.jpg)
+![비밀번호변경](https://user-images.githubusercontent.com/55443383/116081735-9308bb80-a6d5-11eb-857c-70fa5a8efb70.jpg)
 
 ##### <사용자 모드 선택>
 |REQ|Type|Priority|Content|
@@ -119,6 +119,8 @@
 |59|FR|3|시스템은 Admin이 “Customer” 버튼을 선택했을 때 <Table Number 입력> 화면으로 이동해야 한다.
 |60|FR|3|시스템은 Admin이 “Admin” 버튼을 선택했을 때 <Admin 모드> 화면으로 이동해야 한다.
 |61|NFR|5|시스템은 <사용자 모드 선택> 화면으로 이동했을 때 "Customer" 버튼과 "Admin" 버튼을 화면에 보여주어야 한다.
+
+![사용자모드선택](https://user-images.githubusercontent.com/55443383/116081964-d6fbc080-a6d5-11eb-9536-e592f7c1f4ef.jpg)
 
 ##### <Table Number 입력>
 |REQ|Type|Priority|Content|
@@ -131,6 +133,8 @@
 |67|NFR|5|시스템은 <Table Number 입력> 화면으로 이동했을 때 "Table Number" 텍스트 상자와 "확인" 버튼을 화면에 보여주어야 한다.|
 |68|NFR|1|시스템은 입력된 Table Number가 숫자가 아닌 경우 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
 |69|NFR|1|시스템은 입력된 Table Number가 이미 등록된 번호일 경우 해당 내용을 알리는 메시지 창을 띄워야 한다.|
+
+![TableNumber입력](https://user-images.githubusercontent.com/55443383/116082001-dfec9200-a6d5-11eb-8b00-9e80cee883d2.jpg)
 
 ##### <Customer 모드>
 |REQ|Type|Priority|Content|
