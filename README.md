@@ -262,6 +262,7 @@
 |172|NFR|1|시스템은 UI 형태가 직관적이고 쉬워서 누구라도 사용할 수 있어야 한다.|
 
 ![주문하기1](https://user-images.githubusercontent.com/55443383/116079458-c8f87080-a6d2-11eb-9cbb-226e7b12782e.png)
+![주문하기2](https://user-images.githubusercontent.com/55443383/116079643-065cfe00-a6d3-11eb-8689-26a8a7d54d45.png)
 
 ##### <Admin 모드>
 |REQ|Type|Priority|Content|
