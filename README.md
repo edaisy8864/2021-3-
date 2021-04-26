@@ -45,7 +45,7 @@
 |9|NFR|5|시스템을 실행했을 때 시스템은 “아이디” 텍스트 상자, “비밀번호” 텍스트 상자, “로그인” 버튼, “회원가입” 버튼, “아이디/비밀번호 찾기” 버튼을 <Admin 로그인> 화면에 보여주어야 한다.|
 |10|NFR|1|시스템은 계정 확인에 실패하면 로그인 실패 메시지 창을 띄워주어야 한다.|
 
-![Admin로그인](https://user-images.githubusercontent.com/55443383/116081163-e29ab780-a6d4-11eb-9a3a-b3c36c0c749d.jpg)
+![Admin로그인](https://user-images.githubusercontent.com/55443383/116081627-740a2980-a6d5-11eb-9550-00bb49772473.jpg)
 
 ##### <Admin 회원가입>
 |REQ|Type|Priority|Content|
@@ -70,7 +70,7 @@
 |28|NFR|1|시스템은 Admin이 입력한 이메일이 이메일 형식과 불일치함을 확인하면 해당내용을 알리는 경고 메시지 창을 띄워야 한다.|
 |29|NFR|3|시스템은 Admin이 입력한 비밀번호가 비밀번호 재확인과 일치함을 확인하면 회원가입 완료 메시지 창을 띄워야 한다.|
 
-![Admin로그인](https://user-images.githubusercontent.com/55443383/116081627-740a2980-a6d5-11eb-9550-00bb49772473.jpg)
+![Admin회원가입](https://user-images.githubusercontent.com/55443383/116081676-82f0dc00-a6d5-11eb-8fe1-6b38fd1b2a87.jpg)
 
 ##### <Admin 아이디/비밀번호 찾기>
 |REQ|Type|Priority|Content|
@@ -92,7 +92,7 @@
 |44|NFR|1|시스템은 인증 메일을 전송한 후에 3분의 카운트 다운을 화면에 보여줘야 하며, 3분이 지나면 인증 유효시간이 만료했음을 알려주는 경고 메시지 창을 띄워야 한다.|
 |45|NFR|3|시스템은 인증번호의 일치를 확인했을 때 “등록된 아이디” 라디오 버튼과 “비밀번호 변경하기” 버튼을 활성화하여 화면에 보여주어야 한다.|
 
-![Admin회원가입](https://user-images.githubusercontent.com/55443383/116081676-82f0dc00-a6d5-11eb-8fe1-6b38fd1b2a87.jpg)
+![아이디비밀번호찾기](https://user-images.githubusercontent.com/55443383/116082180-132f2100-a6d6-11eb-9276-184e2aff637b.jpg)
 
 ##### <Admin 비밀번호 변경>
 |REQ|Type|Priority|Content|
