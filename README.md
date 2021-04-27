@@ -152,6 +152,7 @@
 |180|FR| |시스템은 Admin이 "조리완료"버튼을 눌렀을 시 해당 주문 주문현황 목록에서 제거해야 한다.|
 |181|NFR| |시스템은 각 주문이 병렬적으로 실행되게 해야 한다.|
 
+![Admin_order](https://user-images.githubusercontent.com/33649819/116170703-47402b80-a742-11eb-80c1-f92277d10d3a.png)
 
 ##### <Customer 모드>
 |REQ|Type|Priority|Content|
