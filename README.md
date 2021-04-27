@@ -20,7 +20,7 @@
 ```
 Admin : 강용현, 김예슬
 User - order : 김예령, 박민호
-User - 부가기능 : 강용현, 
+User - 부가기능 : 강용현, 정가원
 ```
   
 ### 2. Problem Statement
