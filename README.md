@@ -139,7 +139,7 @@
 ![TableNumber입력](https://user-images.githubusercontent.com/55443383/116082001-dfec9200-a6d5-11eb-8b00-9e80cee883d2.jpg)
 
 
-##### <Admin 모드>
+##### <Admin >
 |REQ|Type|Priority|Content|
 |:---:|:---:|:---:|:---|
 |173|FR| |시스템은 주문이 들어온 테이블 번호, 주문 내용을 보여줘야 한다.|
