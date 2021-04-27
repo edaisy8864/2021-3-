@@ -16,7 +16,12 @@
 ```
 비대면 주문 어플리케이션
 ```
-  
+#### 1.3 Sub-groups
+```
+Admin : 강용현, 김예슬
+User - order : 김예령, 박민호
+User - 부가기능 : 강용현, 
+```
   
 ### 2. Problem Statement
 #### 2.1 The Problem
@@ -301,4 +306,8 @@
 
 
 
-### 4. System Model
+#### 4. System Model
+
+#### 4.1 Use Cases
+
+#### 4.2 Domain Model
