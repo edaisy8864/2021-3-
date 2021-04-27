@@ -306,7 +306,7 @@ User - 부가기능 : 강용현,
 
 
 
-#### 4. System Model
+### 4. System Model
 
 #### 4.1 Use Cases
 
