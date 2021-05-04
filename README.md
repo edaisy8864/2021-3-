@@ -106,8 +106,6 @@ User - 부가기능 : 강용현, 정가원
 |42|FR|5|시스템은 Admin이 입력한 이메일이 이메일 형식에 부합하는지 확인했을 때 Admin이 입력한 아이디와 이메일이 데이터베이스에 일치하는 계정이 존재하는지 확인해야 한다. |
 |43|FR|3|시스템은 Admin이 입력한 아이디와 이메일이 이미 존재하는 계정임을 확인하면 <Set New Admin PW>화면으로 이동해야 한다. |
 
-![아이디비밀번호찾기](https://user-images.githubusercontent.com/55443383/116082180-132f2100-a6d6-11eb-9276-184e2aff637b.jpg)
-
 ##### <Set New Admin PW>
 |REQ|Type|Priority|Content|
 |:---:|:---:|:---:|:---|
@@ -122,8 +120,7 @@ User - 부가기능 : 강용현, 정가원
 |56|NFR|1|시스템은 Admin이 입력한 새로운 비밀번호가 Admin이 입력한 비밀번호 재확인과 일치하지 않으면, 해당 내용을 알리는 경고 메시지 창을 띄워야 한다.|
 |57|NFR|1|시스템은 Admin이 입력한 새로운 비밀번호가 Admin이 입력한 비밀번호가 데이터베이스에 성공적으로 변경되었을 때, 비밀번호 변경의 성공과 다시 로그인해달라는 알림을 담은 메시지 창을 띄워야한다.|
 
-![비밀번호변경](https://user-images.githubusercontent.com/55443383/116081735-9308bb80-a6d5-11eb-857c-70fa5a8efb70.jpg)
-
+![Find_Admin_ID_PW_UI](https://user-images.githubusercontent.com/81239623/116962881-424f1f00-ace2-11eb-9ed4-808d3ae645da.JPG)
 
 ##### <사용자 모드 선택>
 |REQ|Type|Priority|Content|
