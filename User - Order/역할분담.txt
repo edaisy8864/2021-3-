@@ -1,0 +1,5 @@
+requirement: 예령, 민호 같이 수정 및 정리
+use case: 예령, 민호 같이 작성 / 민호 총괄 정리
+domain model: 예령, 민호 같이 구상 / 예령 총괄 정리
+sequence diagram: 예령, 민호 같이 구상 / 예령 총괄 정리
+class diagram: 예령, 민호 같이 구상 / 민호 총괄 정리
