@@ -172,7 +172,7 @@ User - 부가기능 : 강용현, 정가원
 |83|FR|2|시스템은 Customer가 "회원" 버튼을 선택했을 때 <Customer 로그인> 화면으로 이동해야 한다.|
 |84|NFR|5|시스템은 <Customer 모드> 화면으로 이동했을 때 "회원" 버튼과 "비회원" 버튼을 화면에 보여주어야 한다.|
 
-![customer 모드](https://user-images.githubusercontent.com/55443383/116080024-84b9a000-a6d3-11eb-9598-ec694fcc5b1a.png)
+![customerMode](https://user-images.githubusercontent.com/52667698/120153412-a73a5e00-c229-11eb-9488-fc2320391678.png)
 
 ##### <스탬프/포인트>
 |REQ|Type|Priority|Content|
